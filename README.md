@@ -1,7 +1,7 @@
 # MNIST classification
 Building simple model to classify handwritten digits
 
-###Draft
+### Draft
 
 This notebook contains:
 - Dataset loading
