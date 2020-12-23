@@ -10,3 +10,4 @@ This notebook contains:
 - Building logistic regression model
 - Evaluating model
 
+[See in nbviewer](https://nbviewer.jupyter.org/github/gruntoff/mnist_classification/blob/main/MNIST.ipynb)
